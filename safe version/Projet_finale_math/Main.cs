@@ -55,7 +55,7 @@ namespace Projet_finale_math
                 double reponseformmule2;
                 int x;
 
-                reponseformmule2 = 3 * Math.Pow((x- 7 / 5), 5) - 5 * Math.Pow((x - 7 / 5), 3) + 3
+                reponseformmule2 = 3 * Math.Pow((x - 7 / 5), 5) - 5 * Math.Pow((x - 7 / 5), 3) + 3;
             }
             if (FORMULE_3.Checked)
             {
